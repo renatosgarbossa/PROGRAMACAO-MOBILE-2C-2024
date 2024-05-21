@@ -43,7 +43,7 @@ const App = () => {
 
 export default App;
 
-*/style*/
+*/style/*
 
 export const estilo = {
   container:{
